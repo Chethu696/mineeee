@@ -1,4 +1,4 @@
 this is mine text file
 git is global level usage
-global inforamtion tracker
+fistly , global inforamtion tracker
 
